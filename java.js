@@ -15,8 +15,10 @@ var typed = new Typed('.auto-type', {
         "I wish you all the happiness in the world. 😊", 
         "Happy Women’s Day 20/11! 🌸"
     ],
+    startDelay: 5000,
     typeSpeed: 50,  
     backSpeed: 50,
-    loop: true
+    loop: true,
+    showCursor: true
 });
 
