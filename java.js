@@ -13,7 +13,7 @@ var typed = new Typed('.auto-type', {
         "You deserve everything good in life. 🎁",
         "You'll do what you want 🎉",
         "I wish you all the happiness in the world. 😊", 
-        "Vietnamese Women's Day! 🌸"
+        "Happy Vietnamese Women's Day! 🌸"
     ],
     startDelay: 5000,
     typeSpeed: 70,  
