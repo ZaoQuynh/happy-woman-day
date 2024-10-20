@@ -40,6 +40,8 @@ body {
     margin-top: 50vh;
     transform: translateY(-200px);
     color: #feedfc;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .flowers {
