@@ -13,12 +13,11 @@ var typed = new Typed('.auto-type', {
         "You deserve everything good in life. 🎁",
         "You'll do what you want 🎉",
         "I wish you all the happiness in the world. 😊", 
-        "Happy Women’s Day 20/11! 🌸"
+        "Vietnamese Women's Day! 🌸"
     ],
     startDelay: 5000,
-    typeSpeed: 50,  
-    backSpeed: 50,
+    typeSpeed: 70,  
+    backSpeed: 70,
     loop: true,
     showCursor: true
 });
-
